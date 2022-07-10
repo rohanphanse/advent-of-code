@@ -1,0 +1,1 @@
+/home/runner/advent-of-code/target/debug/my-project: /home/runner/advent-of-code/src/depth_increases.rs /home/runner/advent-of-code/src/main.rs /home/runner/advent-of-code/src/position_change.rs /home/runner/advent-of-code/src/power_consumption.rs
