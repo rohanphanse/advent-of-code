@@ -1,10 +1,12 @@
 mod depth_increases;
 mod position_change;
-mod power_consumption;
+mod binary_diagnostics;
+mod hydrothermal_vents;
 
 fn main() {
     depth_increases::test();
     position_change::test();
-    power_consumption::test();
+    binary_diagnostics::test();
+    hydrothermal_vents::test();
     println!("Hello, world!");
 }
